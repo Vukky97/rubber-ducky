@@ -1,1 +1,1 @@
-# USB_Rubber_Ducky
+USB Rubber Ducky

@@ -1,0 +1,2 @@
+# This is the syntax of encoding the ducky scripts.
+java -jar duckencode.jar -i exploit.txt -o /media/root/SDCARD/inject.bin
